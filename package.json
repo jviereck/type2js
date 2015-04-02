@@ -1,0 +1,18 @@
+{
+  "name": "type2js",
+  "version": "0.0.0",
+  "author": "'Julian Viereck' <julian.viereck@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jviereck/type2js.git"
+  },
+  "files": [
+    "LICENSE.MIT",
+    "README.md"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
